@@ -1,4 +1,4 @@
 # apnacollage-demo
 this my first git repository
 <br>
-Author : Mansi Chauhan
+Author : Mansi Chauhan(intern)
